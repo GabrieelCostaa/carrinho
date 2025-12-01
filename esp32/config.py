@@ -4,8 +4,8 @@ Edite os valores conforme seu hardware
 """
 
 # Configurações WiFi
-WIFI_SSID = "SEU_WIFI"
-WIFI_PASSWORD = "SUA_SENHA"
+WIFI_SSID = "PUC-ACD"
+WIFI_PASSWORD = ""  # Rede sem senha (aberta)
 
 # Configurações do servidor WebSocket
 WEBSOCKET_PORT = 8765
